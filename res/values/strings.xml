@@ -4,7 +4,7 @@
     
     <string name="app_name" translatable="false">PageTurner</string>
     
-    <string name="title">タイトル</string>
+    <string name="title">Title</string>
     <string name="app_desc">PageTurner is a syncing e-book reader that allows you to sync your reading progress over multiple devices.</string>
     <string name="browse">Browse…</string>
     <string name="open_file">Open ePub file</string>
@@ -12,15 +12,15 @@
     <string name="profile_day">Switch to day mode</string>
     <string name="profile_night">Switch to night mode</string>
     <string name="manual_sync">Sync reading progress</string>
-    <string name="prefs">設定</string>
+    <string name="prefs">Settings</string>
     <string name="show_toc">Show TOC</string>
     <string name="rolling_blind">Auto-scroll</string>
-    <string name="about">PageTurnerについて</string>
+    <string name="about">About PageTurner</string>
     <string name="about_gpl">PageTurner is free software under the GPL v3.</string>
     <string name="error_open_bk">Error opening book: %s</string>
     <string name="dictionary_lookup">Look up in Dictionary</string>
-    <string name="wikipedia_lookup">Wikipediaで検索</string>
-    <string name="google_lookup">Googleで検索</string>
+    <string name="wikipedia_lookup">Search on Wikipedia</string>
+    <string name="google_lookup">Search on Google</string>
     <string name="word_select">"You selected '%s'</string>
     <string name="loading_wait">Loading, please wait</string>
     <string name="install_oi">Please install OI File Manager from the Google Play Store.</string>
@@ -30,7 +30,7 @@
     <string name="sync_failed">Sync failed</string>
     <string name="connection_fail">Could not connect to the sync server.</string>
     <string name="never_read">Never</string>
-    <string name="library">ライブラリー</string>
+    <string name="library">Library</string>
     <string name="book_details">Book details</string>
     <string name="book_by">By %s</string>
     <string name="last_read">Last read: %s</string>
@@ -97,7 +97,7 @@
     <string name="list_view">Switch to list view</string>
     <string name="shelves_view">Switch to shelves view</string>
     <string name="read">Read now</string>
-    <string name="download">本をダウンロード</string>
+    <string name="download">Download books</string>
     <string name="downloading">Downloading book…</string>
     <string name="search_books">Search for books</string>
     <string name="enter_query">Please enter a search-term</string>
@@ -130,11 +130,11 @@
     <string name="save">Save changes</string>
     
     <string name="custom_site_desc">Your own OPDS / Calibre sites. You can add sites from the Preferences screen.</string>
-    <string name="site_name">サイトの名前</string>
-    <string name="site_url">サイトのURL</string>
+    <string name="site_name">Site name</string>
+    <string name="site_url">Site URL</string>
     <string name="site_desc">Description</string>
-    <string name="site_username">ユーザーネーム</string>
-    <string name="site_password">パスワード</string>
+    <string name="site_username">Username</string>
+    <string name="site_password">Password</string>
     
     <string name="msg_name_blank">Please fill in a name.</string>
     <string name="msg_url_blank">Please fill in a URL.</string>
@@ -151,7 +151,7 @@
     <string name="no_sync_points">You don\'t have any cloud-sync points stored yet.\nSync points are stored automatically when you leave PageTurner.</string>
     <string name="no_new_books_found">The scan did not find any new books.</string>
 
-    <string name="next_page">次のページ…</string>
+    <string name="next_page">Next page…</string>
     <string name="prev_page">Previous page…</string>
 
     <string name="empty_opds_feed">The feed was empty. Please check that you are using the correct URL.</string>
@@ -183,8 +183,8 @@
     <string name="notes_attached">This highlight has an attached text note.\nAre you sure you to delete it?</string>
     <string name="highlight_deleted">Highlight has been removed</string>
 
-    <string name="add_bookmark">ブックマークに追加</string>
-    <string name="add">追加</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="add">Add</string>
     <string name="bookmarks">Bookmarks</string>
     <string name="bookmark_options">Bookmark options</string>
     <string name="bookmark_deleted">Bookmark has been removed</string>
@@ -304,7 +304,7 @@
     <string name="pref_sans_serif_font">Sans-Serif font</string>
     <string name="pref_sans_serif_summary">Font to use if a book requests a Sans-Serif font.</string>   
     
-    <string name="pref_lang">UIの言語</string>
+    <string name="pref_lang">UI Language</string>
     <string name="pref_lang_summary">Allows you to switch PageTurner\'s language settings.</string>
     <string name="language_switch_message">The new language setting will become active the next time you open a book.</string>
 
@@ -313,11 +313,11 @@
     
     <string-array name="supported_languagesLabels">
  	    <item>Use device setting</item>
- 	    <item>英語</item>
+ 	    <item>English</item>
  	    <item>Dutch</item>
  	    <item>German</item>
- 	    <item>スペイン語</item>
- 	    <item>イタリア語</item>
+ 	    <item>Spanish</item>
+ 	    <item>Italian</item>
  	    <item>Arabic</item> 	    
  	    <item>Hebrew</item>
  	    <item>Farsi</item>
@@ -374,7 +374,7 @@
     <string name="default_last_read" translatable="false">Last read: never</string>
     <string name="default_filename" translatable="false">book.epub</string>
     <string name="default_book_title" translatable="false">Title of the book</string>
-    <string name="hello_world" translatable="false">ようこそ！</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
 
     
 
