@@ -8,68 +8,67 @@
     <string name="app_desc">PageTurnerは、複数のデバイスで読書の進行状況を同期できる同期電子書籍リーダーです。</string>
     <string name="browse">ブラウズ…</string>
     <string name="open_file">ePubファイルを開く</string>
-    <string name="open_library">My Books</string>
+    <string name="open_library">私の本</string>
     <string name="profile_day">デイモードに切り替えます</string>
     <string name="profile_night">ナイトモードに切り替えます</string>
     <string name="manual_sync">読み取りの進行状況を同期する</string>
     <string name="prefs">設定</string>
-    <string name="show_toc">Show TOC</string>
-    <string name="rolling_blind">Auto-scroll</string>
+    <string name="show_toc">TOCを表示</string>
+    <string name="rolling_blind">自動スクロール</string>
     <string name="about">PageTurnerについて</string>
-    <string name="about_gpl">PageTurner is free software under the GPL v3.</string>
-    <string name="error_open_bk">Error opening book: %s</string>
-    <string name="dictionary_lookup">Look up in Dictionary</string>
+    <string name="about_gpl">PageTurnerは、GPLv3に基づくフリーソフトウェアです。</string>
+    <string name="error_open_bk">本を開くときにエラーが発生しました：%s</string>
+    <string name="dictionary_lookup">辞書で調べる</string>
     <string name="wikipedia_lookup">Wikipediaで検索</string>
-    <string name="google_lookup">Googleで検索</string>
-    <string name="word_select">"You selected '%s'</string>
-    <string name="loading_wait">Loading, please wait</string>
-    <string name="install_oi">Please install OI File Manager from the Google Play Store.</string>
-    <string name="cloud_bm">Cloud bookmarks</string>
-    <string name="toc_label">Table of contents</string>
-    <string name="syncing">"Syncing progress…"</string>
-    <string name="sync_failed">Sync failed</string>
-    <string name="connection_fail">Could not connect to the sync server.</string>
-    <string name="never_read">Never</string>
-    <string name="library">ライブラリー</string>
-    <string name="book_details">Book details</string>
-    <string name="book_by">By %s</string>
-    <string name="last_read">Last read: %s</string>
-    <string name="added_to_lib">Added to library: %s</string>
-    <string name="view_details">View details</string>
-    <string name="delete">Delete</string>
-    <string name="scan_books">Scan for books</string>
-    <string name="importing_books">Importing books…</string>
-    <string name="scanning_epub">Scanning for EPUB files.</string>
-    <string name="importing">Importing %1$d of %2$d</string>
-    <string name="scan_folders">Scanning for EPUB files.\nFolders scanned: %d</string>
-    <string name="import_errors">Some files had errors while importing:</string>
-    <string name="no_books_found">No books found.</string>
+    <string name="word_select">'％s'を選択しました</string>
+    <string name=">ロード中...しばらくお待ちください</string>
+    <string name="install_oi">グーグルプレイストアからOI File Managerをインストールしてください。</string>
+    <string name="cloud_bm">クラウドブックマーク</string>
+    <string name="toc_label">目次</string>
+    <string name="syncing">"同期の進行状況…"</string>
+    <string name="sync_failed">同期に失敗しました</string>
+    <string name="connection_fail">同期サーバーに接続できませんでした。</string>
+    <string name="never_read">一度もない</string>
+    <string name="library">ライブラリ</string>
+    <string name="book_details">本の詳細</string>
+    <string name="book_by">によって %s</string>
+    <string name="last_read">最後に読んだ： %s</string>
+    <string name="added_to_lib">ライブラリに追加： %s</string>
+    <string name="view_details">詳細を見る</string>
+    <string name="delete">消去</string>
+    <string name="scan_books">本をスキャンする</string>
+    <string name="importing_books">本のインポート…</string>
+    <string name="scanning_epub">EPUBファイルをスキャンしています。</string>
+    <string name="importing">%2$dの%1$dをインポートしています</string>
+    <string name="scan_folders">EPUBファイルをスキャンしています。\nスキャンしたフォルダ：%d</string>
+    <string name="import_errors">一部のファイルで、インポート中にエラーが発生しました。</string>
+    <string name="no_books_found">本が見つかりません。</string>
 
-    <string name="no_bks_fnd_text">No books were found on your device.\nYou can download books at gutenberg.org or feedbooks.com</string>
+    <string name="no_bks_fnd_text">デバイスに本が見つかりませんでした。\gutenberg.orgまたはfeedbooks.comで本をダウンロードできます。</string>
 
-    <string name="loading_library">Loading library…</string>
-    <string name="scan_bks_question">There are no books in your library.\nWould you like to scan your device for books?</string>
-    <string name="brightness">Brightness</string>
+    <string name="loading_library">ライブラリを読み込んでいます…</string>
+    <string name="scan_bks_question">ライブラリに本がありません。\デバイスで本をスキャンしますか？</string>
+    <string name="brightness">輝度</string>
 
     <string-array name="v_animLabels">
-        <item>Slide</item>
-        <item>None</item>
+        <item>スライド</item>
+        <item>無し</item>
     </string-array>
     <string-array name="h_animLabels">
-        <item>Page flip</item>
-        <item>Slide</item>
-        <item>None</item>
+        <item>ページめくり</item>
+        <item>スライド</item>
+        <item>無し</item>
     </string-array>
     <string-array name="orientationLabels">
-        <item>Don\'t lock orientation</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
-        <item>Reverse Portrait</item>
-        <item>Reverse Landscape</item>
+        <item>向きをロックしない</item>
+        <item>ポートレート</item>
+        <item>風景</item>
+        <item>リバースポートレート</item>
+        <item>リバースランドスケープ</item>
     </string-array>
     <string-array name="autoscrollLabels">
-        <item>Rolling blind</item>
-        <item>Page change timer</item>
+        <item>ローリングブラインド</item>
+        <item>ページ変更タイマー</item>
     </string-array>
 
     <string-array name="nook_touch_direction_labels">
@@ -312,54 +311,54 @@
     <string name="pref_accept_self_signed_summary">Allows you to connect to OPDS sites which use self-signed certificates.</string>
     
     <string-array name="supported_languagesLabels">
- 	    <item>Use device setting</item>
+ 	    <item>デバイスの言語を使用</item>
  	    <item>英語</item>
- 	    <item>Dutch</item>
- 	    <item>German</item>
+ 	    <item>オランダ語</item>
+ 	    <item>ドイツ語</item>
  	    <item>スペイン語</item>
  	    <item>イタリア語</item>
- 	    <item>Arabic</item> 	    
- 	    <item>Hebrew</item>
- 	    <item>Farsi</item>
- 	    <item>Slovene</item>
+ 	    <item>アラビア語</item> 	    
+ 	    <item>ヘブライ語</item>
+ 	    <item>ペルシア語</item>
+ 	    <item>スロベニア語</item>
  	</string-array>
 
 
     <string name="pref_dim_system_ui">Dim System UI</string>
     <string name="pref_dim_system_ui_summary">Dims the System UI buttons when reading in fullscreen mode.</string>
 
-    <string name="pref_long_short">Switch long press / short press</string>
-    <string name="pref_long_short_summary">How to open books in the library</string>
+    <string name="pref_long_short">長押し/短押しを切り替える</string>
+    <string name="pref_long_short_summary">図書館で本を開く方法</string>
 
     <string-array name="long_short_labels">
-        <item>Long press to open, short press for details</item>
-        <item>Short press to open, long press for details</item>
+        <item>開くには長押し、詳細については短押し</item>
+        <item>開くには短押し、詳細については長押し</item>
      </string-array>
 
-    <string name="pref_dev_settings">Development settings</string>
+    <string name="pref_dev_settings">開発設定</string>
 
-    <string name="pref_acra">Send error reports</string>
-    <string name="pref_acra_summary">Allow PageTurner to send anonymous error reports when it crashes.</string>
+    <string name="pref_acra">エラーレポートを送信する</string>
+    <string name="pref_acra_summary">PageTurnerがクラッシュしたときに匿名のエラーレポートを送信出来るようにします。</string>
 
-    <string name="opds_settings">OPDS settings</string>
+    <string name="opds_settings">OPDS設定</string>
 
-    <string name="pref_use_publisher_style">Use Publisher style (CSS)</string>
-    <string name="pref_use_publisher_style_summary">Allow the book to change fonts, colours, etc.</string>
+    <string name="pref_use_publisher_style">パブリッシャースタイル（CSS）を使用する</string>
+    <string name="pref_use_publisher_style_summary">書籍のフォントや色などを変更出来るようにします。</string>
 
-    <string name="drawer_open">Drawer open</string>
-    <string name="drawer_close">Drawer closed</string>
-    <string name="drawer_layout">Drawer layout</string>
+    <string name="drawer_open">引き出しが開いています</string>
+    <string name="drawer_close">引き出しが閉まっています</string>
+    <string name="drawer_layout">引き出しのレイアウト</string>
 
-    <string name="pref_allow_css_colours">Allow the book to set colours</string>
-    <string name="pref_css_colours_day_summary">For day mode</string>
-    <string name="pref_css_colours_night_summary">For night mode</string>
+    <string name="pref_allow_css_colours">本に色を設定させます</string>
+    <string name="pref_css_colours_day_summary">デイモードの場合</string>
+    <string name="pref_css_colours_night_summary">ナイトモードの場合</string>
 
-    <string name="pref_always_open_book">Always open last book</string>
-    <string name="pref_always_open_book_summary">PageTurner will always start in the last read book instead of last open screen.</string>
+    <string name="pref_always_open_book">常に最後の本を開く</string>
+    <string name="pref_always_open_book_summary">PageTurnerは、最後に開いた画面ではなく、常に最後に読んだ本から始まります。</string>
 
-    <string name="pref_sync_server">Sync Server</string>
-    <string name="pref_sync_server_summary">Select which server you would like to sync with.</string>
-    <string name="pref_sync_server_message">Please enter a sync server url.</string>
+    <string name="pref_sync_server">同期サーバー</string>
+    <string name="pref_sync_server_summary">同期するサーバーを選択します。</string>
+    <string name="pref_sync_server_message">同期サーバーのURLを入力してください。</string>
 
 
     <!-- Translation is not needed for the strings below -->
@@ -374,7 +373,7 @@
     <string name="default_last_read" translatable="false">Last read: never</string>
     <string name="default_filename" translatable="false">book.epub</string>
     <string name="default_book_title" translatable="false">Title of the book</string>
-    <string name="hello_world" translatable="false">ようこそ！</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
 
     
 
