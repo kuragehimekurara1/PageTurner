@@ -72,8 +72,8 @@
     </string-array>
 
     <string-array name="nook_touch_direction_labels">
-        <item>Top buttons move forward</item>
-        <item>Bottom buttons move forward</item>
+        <item>上部のボタンが前方に移動します</item>
+        <item>下部のボタンが前方に移動します</item>
     </string-array>
         
     <string-array name="libraryQueries">
@@ -324,8 +324,8 @@
  	</string-array>
 
 
-    <string name="pref_dim_system_ui">Dim System UI</string>
-    <string name="pref_dim_system_ui_summary">Dims the System UI buttons when reading in fullscreen mode.</string>
+    <string name="pref_dim_system_ui">薄暗いシステムUI</string>
+    <string name="pref_dim_system_ui_summary">フルスクリーンモードで読み取るときは、システムUIボタンを暗くします。</string>
 
     <string name="pref_long_short">長押し/短押しを切り替える</string>
     <string name="pref_long_short_summary">図書館で本を開く方法</string>
